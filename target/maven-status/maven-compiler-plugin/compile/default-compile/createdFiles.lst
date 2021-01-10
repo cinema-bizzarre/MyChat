@@ -1,0 +1,9 @@
+server\AuthService.class
+MainApp.class
+client\ClientConnection.class
+server\ClientHandler.class
+server\Main.class
+client\ChatController.class
+client\Main.class
+client\LoginController.class
+server\Server.class
